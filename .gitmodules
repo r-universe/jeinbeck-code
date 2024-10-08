@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "LPCM"]
+	path = LPCM
+	url = https://github.com/cran/LPCM
+[submodule "npmlreg"]
+	path = npmlreg
+	url = https://github.com/cran/npmlreg
